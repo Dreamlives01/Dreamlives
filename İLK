@@ -1,0 +1,6 @@
+ad="Ömer"
+bos=" "
+soyad="Bilmemney"
+birleştir=ad+bos+soyad
+#birleştir=ad+" "+soyad arkadaşlar bu metin yukardakinin aynısı
+print(birleştir)
